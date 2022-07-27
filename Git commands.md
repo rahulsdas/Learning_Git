@@ -12,3 +12,6 @@ Comit5
 which collates all from commits 1 through 4 into one commit.  
 
 This is typically used to create one commit to merge branches.  
+
+
+[👈 Back to index](https://github.com/rahulsdas/learning_github/blob/main/README.md)
